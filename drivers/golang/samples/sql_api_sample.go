@@ -22,7 +22,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/apache/age/drivers/golang/age"
+	"github.com/sanket-uptycs/age/drivers/golang/age"
 )
 
 // Do cypher query to AGE with database/sql Tx API transaction control
